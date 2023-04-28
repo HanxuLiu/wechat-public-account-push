@@ -6,6 +6,7 @@
 
 wechat-public-account-push
 好像60天没有检测到活动，就停止action推送了
+update 2023-04-28
 
 </h1>
 
